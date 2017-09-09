@@ -1,0 +1,18 @@
+
+.news a,.product a,.zhuxiao a{
+	display:block;
+	text-decoration:none;
+	width:150%;
+	height:27px;
+	line-height:30px;
+	color:black;
+	border:1px solid #009FDF;
+	margin-left:-10px;
+	margin-top:0;
+	background: url(../images/1.png) repeat;
+}
+.news a:hover,.product a:hover,.zhuxiao a:hover{
+	
+	color:#fff;
+	background: darkcyan;
+}

@@ -1,0 +1,79 @@
+body{
+	background: url(../images/index_001.jpg) ;
+}
+.mob{
+	width:400px;
+	height:350px;
+	border:1px solid #666;
+	border-top:3px solid #39F;
+	background-color:#FFF;
+	margin:0px auto;
+	margin-top:150px;	
+	opacity: 0.6;
+	border-radius: 5px;
+	}
+.text{
+	width:400px;
+	height:130px;
+	text-align:center;
+	}
+h1{
+	color:#39F;
+	padding-top:60px;
+	font-family:"微软雅黑";
+	font-weight:900;
+	}
+input{
+	width:280px;
+	height:29px;	
+	
+	}
+label{
+	padding-left: 5px;
+}
+#num{
+	color:#999;
+	background-image:url(../images/user.png);
+	background-repeat:no-repeat;
+	border:1px solid #CCC;
+	line-height:27px;
+	width:280px;
+	height:27px;
+	padding-left: 33px;	
+	}
+#pass{
+	background-image:url(../images/password.png);
+	background-repeat:no-repeat;
+	padding-left:30px;
+	border:1px solid #CCC;
+	line-height:27px;
+	width:280px;
+	height:27px;	
+	padding-left: 33px;	
+	margin-top: 30px;
+	}
+#sub{
+	background-color:#39F;
+	color:#FFF;
+	border:1px solid #39F;
+	border-radius: 10px;
+	font-size:20px;
+	width:200px;
+	margin-top:30px;
+	margin-left: 50px;
+	}
+#sub:hover{border-bottom:solid 1px #333;
+			background-color:greenyellow;
+}
+
+#left{
+	padding-left:10px;
+	float:left;
+	display: block;
+	text-decoration:none;
+	font-size:15px;
+	color:#999;
+	margin-top:75px;
+	}
+
+	
